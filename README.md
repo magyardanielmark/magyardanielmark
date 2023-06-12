@@ -15,7 +15,7 @@ Hello my name is Daniel, I'm an aspiring developer fueled by a deep passion for 
 
 ### 📊 Stats
 
-[![Daniels's GitHub stats](https://github-readme-stats.vercel.app/api?username=magyardanielmark&show_icons=true&theme=gruvbox)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=magyardanielmark&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=magyardanielmark&theme=gruvbox&border_radius=4.5) -->
 
