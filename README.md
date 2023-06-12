@@ -1,16 +1,26 @@
-### Hi there 👋
+# Daniel Mark Magyar
 
-<!--
-**magyardanielmark/magyardanielmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`An aspiring developer`**
 
-Here are some ideas to get you started:
+Hello my name is Daniel, I'm an aspiring developer fueled by a deep passion for coding and a relentless drive to create innovative solutions. With an insatiable curiosity and a commitment to continuous learning, I'm eager to embark on a journey of turning ideas into reality through my code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Languages and Tools
+
+
+
+
+#
+
+### 📊 Stats
+
+[![Daniels's GitHub stats](https://github-readme-stats.vercel.app/api?username=magyardanielmark&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=magyardanielmark&theme=gruvbox&border_radius=4.5) -->
+
+#
+
+<details>
+  <summary><h3> Daniel's Coding Journey</h3></summary>
+    Yes tho
